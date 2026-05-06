@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "devkit")(type "KiCad")(uri "/Users/darren/Downloads/ESP32 Devkit V1/devkit.pretty")(options "")(descr ""))
-)

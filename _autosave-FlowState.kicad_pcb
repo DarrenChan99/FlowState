@@ -8025,22 +8025,20 @@
 		(uuid "4968a0e5-46f1-401c-8a65-93819184e922")
 		(hatch edge 0.5)
 		(priority 1)
-		(connect_pads
-			(clearance 0.5)
+		(connect_pads yes
+			(clearance 0)
 		)
-		(min_thickness 0.25)
+		(min_thickness 0.025)
 		(filled_areas_thickness no)
-		(fill yes
+		(fill
 			(thermal_gap 0.5)
 			(thermal_bridge_width 0.5)
-			(smoothing fillet)
-			(radius 1)
 			(island_removal_mode 1)
 			(island_area_min 10)
 		)
 		(polygon
 			(pts
-				(xy 30.2768 52.07) (xy 34.1376 52.07) (xy 34.1376 54.1528) (xy 30.2768 54.1528)
+				(xy 28.650538 51.3588) (xy 35.762538 51.3588) (xy 35.665013 58.2676) (xy 28.548938 58.2676)
 			)
 		)
 	)

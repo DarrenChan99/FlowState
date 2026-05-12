@@ -5,6 +5,12 @@
 **/ipch/
 **/.browse.c_cpp.db*
 
+
+lib/
+include/
+test/
+
+
 **/*.lck
 **/*.kicad_prl
 **/*.kicad_pcb-bak
@@ -15,6 +21,5 @@
 
 Gerber/*
 !Gerber/*.zip
-
 
 

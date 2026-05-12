@@ -1,6 +1,26 @@
 # PlantVision
-
 Plant Vision is a data driven project that aims to use onboard sensors to display useful information and warnings to the user like a predictive watering algorithm and CO2 threshold monitor to help optimally track and water plants and improve productivity through elevated CO2 level warnings, signaling to the user it might be time to step outside.   
+
+# Why?
+Recently one of my plants died to unknown factors and I realized that I was guessing when to water and how much sun to give it. At this same time I wanted to learn c++, microcontrollers, and data based algorithms to build my skills. So after some brainstorming this project perfectly encapsulated my needs.
+
+### Gallery
+
+#### Schematic
+<img src="https://github.com/user-attachments/assets/b36f6d5f-a203-4745-b305-b1b13fe54f30" alt="Schematic" width="502" height="332" />
+
+#### PCB Layout
+<img src="https://github.com/user-attachments/assets/f6de79b2-5e7b-46e7-ab3e-c3a270df783c" alt="PCB Layout" width="298" height="304" />
+
+#### 3D Render
+<img src="https://github.com/user-attachments/assets/c9df3d69-6842-409e-ad1e-d1bebac9e79f" alt="3D Render" width="294" height="274" />
+
+#### CAD View (Front)
+<img src="https://github.com/user-attachments/assets/fe03f22b-82d8-4df8-92ae-3cafea43061f" alt="CAD Front" width="180" height="238" />
+
+#### CAD View (Back)
+<img src="https://github.com/user-attachments/assets/94680365-9b8b-4365-9ac1-94f1e800dcf2" alt="CAD Back" width="181" height="261" />
+
 
 ## BOM
 | Component | Description | Part Number | Source | Qty | Notes |

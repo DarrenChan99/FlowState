@@ -6,9 +6,9 @@
 **/.browse.c_cpp.db*
 
 
-lib/
-include/
-test/
+.lib/
+.include/
+.test/
 
 
 **/*.lck

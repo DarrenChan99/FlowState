@@ -4,6 +4,7 @@
 .vscode/
 **/ipch/
 **/.browse.c_cpp.db*
+#auto_saved_files#
 
 lib/
 include/
@@ -19,5 +20,3 @@ test/
 
 Gerber/*
 !Gerber/*.zip
-
-

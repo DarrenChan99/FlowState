@@ -2,7 +2,7 @@
 Plant Vision is a data driven project that aims to use onboard sensors to display useful information and warnings to the user like a predictive watering algorithm and CO2 threshold monitor to help optimally track and water plants and improve productivity through elevated CO2 level warnings, signaling to the user it might be time to step outside.   
 
 # Why?
-Recently one of my plants died to unknown factors and I realized that I was guessing when to water and how much sun to give it. At this same time I wanted to learn c++, microcontrollers, and data based algorithms to build my skills. So after some brainstorming this project perfectly encapsulated my needs.
+Recently one of my plants died to unknown factors and I realized that I was guessing when to water and how much sun to give it. At this same time I was getting into C++, microcontrollers, and data based algorithms to build my skills. So after some brainstorming this project perfectly encapsulated my needs while providing a hardware challenge with the custom PCB and an open software ceiling where I could explore data algorithms like the low pass filter and predictive irrigation and experiment with python to better visulize the data and show it on the LCD. 
 
 ### Gallery
 
